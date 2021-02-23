@@ -1,5 +1,5 @@
 # PARTY_teaser_challenge
-A Prolog solution to the Sunday Times published its weekly Teaser 3026, September 20th 2020
+A Prolog solution to the Sunday Times weekly Teaser 3026, September 20th 2020
 
 The rules of the challenge are as follows:
     A four-digit number with different positive digits and with the numbers represented by its last two digits a multiple of the number represented by its first
